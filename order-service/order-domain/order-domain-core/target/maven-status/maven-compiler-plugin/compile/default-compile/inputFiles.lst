@@ -1,0 +1,14 @@
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/order-service/order-domain/order-domain-core/src/main/java/com/kit4elite/entity/Product.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/order-service/order-domain/order-domain-core/src/main/java/com/kit4elite/entity/Order.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/order-service/order-domain/order-domain-core/src/main/java/com/kit4elite/entity/Customer.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/order-service/order-domain/order-domain-core/src/main/java/com/kit4elite/execption/OrderDomainException.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/order-service/order-domain/order-domain-core/src/main/java/com/kit4elite/OrderDomainService.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/order-service/order-domain/order-domain-core/src/main/java/com/kit4elite/OrderDomainServiceImpl.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/order-service/order-domain/order-domain-core/src/main/java/com/kit4elite/event/OrderPaidEvent.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/order-service/order-domain/order-domain-core/src/main/java/com/kit4elite/valueObject/StreetAddress.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/order-service/order-domain/order-domain-core/src/main/java/com/kit4elite/entity/OrderItem.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/order-service/order-domain/order-domain-core/src/main/java/com/kit4elite/event/OrderCreatedEvent.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/order-service/order-domain/order-domain-core/src/main/java/com/kit4elite/event/OrderCanceledEvent.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/order-service/order-domain/order-domain-core/src/main/java/com/kit4elite/valueObject/OrderItemId.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/order-service/order-domain/order-domain-core/src/main/java/com/kit4elite/event/OrderEvent.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/order-service/order-domain/order-domain-core/src/main/java/com/kit4elite/valueObject/TrackingId.java

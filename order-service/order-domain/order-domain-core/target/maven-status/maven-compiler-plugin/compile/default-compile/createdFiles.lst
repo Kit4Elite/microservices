@@ -1,0 +1,16 @@
+com/kit4elite/event/OrderEvent.class
+com/kit4elite/entity/Order.class
+com/kit4elite/execption/OrderDomainException.class
+com/kit4elite/entity/OrderItem$Builder.class
+com/kit4elite/valueObject/OrderItemId.class
+com/kit4elite/entity/OrderItem.class
+com/kit4elite/valueObject/TrackingId.class
+com/kit4elite/event/OrderCreatedEvent.class
+com/kit4elite/entity/Order$Builder.class
+com/kit4elite/entity/Customer.class
+com/kit4elite/event/OrderCanceledEvent.class
+com/kit4elite/OrderDomainService.class
+com/kit4elite/entity/Product.class
+com/kit4elite/OrderDomainServiceImpl.class
+com/kit4elite/valueObject/StreetAddress.class
+com/kit4elite/event/OrderPaidEvent.class

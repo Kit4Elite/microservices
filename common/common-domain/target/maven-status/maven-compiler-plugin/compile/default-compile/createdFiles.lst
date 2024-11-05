@@ -1,0 +1,10 @@
+com/kit4elite/valueObject/OrderId.class
+com/kit4elite/valueObject/ProductId.class
+com/kit4elite/valueObject/Money.class
+com/kit4elite/valueObject/BaseId.class
+com/kit4elite/entity/AggregateRoot.class
+com/kit4elite/valueObject/CustomerId.class
+com/kit4elite/entity/BaseEntity.class
+com/kit4elite/valueObject/OrderStatus.class
+com/kit4elite/exception/DomainException.class
+com/kit4elite/event/DomainEvent.class

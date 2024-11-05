@@ -1,0 +1,10 @@
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/common/common-domain/src/main/java/com/kit4elite/valueObject/OrderStatus.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/common/common-domain/src/main/java/com/kit4elite/valueObject/CustomerId.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/common/common-domain/src/main/java/com/kit4elite/entity/BaseEntity.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/common/common-domain/src/main/java/com/kit4elite/valueObject/ProductId.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/common/common-domain/src/main/java/com/kit4elite/exception/DomainException.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/common/common-domain/src/main/java/com/kit4elite/valueObject/BaseId.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/common/common-domain/src/main/java/com/kit4elite/valueObject/OrderId.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/common/common-domain/src/main/java/com/kit4elite/event/DomainEvent.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/common/common-domain/src/main/java/com/kit4elite/valueObject/Money.java
+/Users/macbookm1/Desktop/JEE/kit4elite-microservices/common/common-domain/src/main/java/com/kit4elite/entity/AggregateRoot.java
